@@ -2,3 +2,4 @@
 
 A new Flutter project.
 
+Build this app with sqlite
